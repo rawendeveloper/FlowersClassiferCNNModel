@@ -11,16 +11,16 @@ This project is a deep learning-based flower classification application built us
 The application utilizes TensorFlow and Keras, and is deployed with Streamlit, providing an intuitive and interactive web interface for users to upload an image and receive instant predictions.
 
 📋 Table of Contents
--Features
--Getting Started
--Prerequisites
--Installation
--Usage
--Model Architecture
--Directory Structure
--Future Enhancements
--Contributing
--License
+Features
+Getting Started
+Prerequisites
+Installation
+Usage
+Model Architecture
+Directory Structure
+Future Enhancements
+Contributing
+License
 ✨ Features
 📁 Image Upload: Upload a flower image directly through the web interface.
 🌼 Image Classification: The model processes the image and predicts the flower category, displaying the result along with the confidence score.
@@ -100,4 +100,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Special thanks to TensorFlow and Keras for providing the tools to build and train the CNN model.
 Streamlit for simplifying the deployment process and creating an intuitive user interface.
 Happy Coding! 🌼
-
